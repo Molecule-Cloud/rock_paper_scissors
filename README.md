@@ -1,1 +1,1 @@
-# rock_paper_scissors
+Rock_paper_Scissors Game in Javascript
